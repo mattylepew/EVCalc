@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<div class="iframe-container">
+    <iframe src="https://www.appsheet.com/start/b815c23e-a25a-417c-af90-2fc319040f7f?refresh=1&wipe=1" 
+        width="100%"
+        style="height: 85vh;">
+    </iframe>
+</div>
+
+</body>
+</html>
+
